@@ -22,5 +22,3 @@ Top 5 Insights got from this project :
 CONCLUSION:
 
 Creating a dashboard for DYNAKE to track and analyze online sales across India is essential for informed decision-making. By integrating data and focusing on key performance indicators, the dashboard can provide valuable insights. This will ultimately help DYNAKE optimize their sales strategies and improve overall performance.
-
-LINK : https://drive.google.com/drive/folders/1z5_KneY4RaOPVoFOlTrrDDQ83rObmzPZ
